@@ -1,0 +1,11 @@
+{
+  "name": "nsp_test",
+  "version": "1.0.0",
+  "dependencies": {
+    "jadedown": {
+      "version": "0.0.3",
+      "from": "jadedown@latest",
+      "resolved": "https://registry.npmjs.org/jadedown/-/jadedown-0.0.3.tgz"
+    }
+  }
+}

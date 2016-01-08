@@ -1,0 +1,14 @@
+{
+  "name": "nsp_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Freire <thenano@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jadedown": "0.0.3"
+  }
+}
